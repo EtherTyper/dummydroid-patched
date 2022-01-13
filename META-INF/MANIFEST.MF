@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: DummyDroid
+Implementation-Version: 2.2
+Main-Class: de.onyxbits.raccoon.dummydroid.Launcher
+
